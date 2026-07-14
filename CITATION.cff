@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Clean Architecture Spring Boot Template"
+authors:
+  - family-names: "Calò"
+    given-names: "Federico"
+version: "1.0.0"
+date-released: "2026-07-14"
+repository-code: "https://github.com/fedcal/clean-architecture-spring-boot-template"
+license: MIT
+# doi: pending - appended once minted via Zenodo-GitHub integration
