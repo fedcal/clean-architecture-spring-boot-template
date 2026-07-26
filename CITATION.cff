@@ -4,8 +4,11 @@ title: "Clean Architecture Spring Boot Template"
 authors:
   - family-names: "Calò"
     given-names: "Federico"
+    orcid: "https://orcid.org/0009-0004-4102-281X"
 version: "1.0.0"
 date-released: "2026-07-14"
 repository-code: "https://github.com/fedcal/clean-architecture-spring-boot-template"
 license: MIT
-# doi: pending - appended once minted via Zenodo-GitHub integration
+type: software
+# doi: assegnato dal client Python locale (ml-service/app/publishing/cli.py), non dal webhook Zenodo-GitHub.
+# NON abilitare l'integrazione Zenodo-GitHub su questo repo: creerebbe un secondo record concorrente per lo stesso artefatto (D-10).
