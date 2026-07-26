@@ -10,5 +10,5 @@ date-released: "2026-07-14"
 repository-code: "https://github.com/fedcal/clean-architecture-spring-boot-template"
 license: MIT
 type: software
-# doi: assegnato dal client Python locale (ml-service/app/publishing/cli.py), non dal webhook Zenodo-GitHub.
+doi: 10.5281/zenodo.21602171
 # NON abilitare l'integrazione Zenodo-GitHub su questo repo: creerebbe un secondo record concorrente per lo stesso artefatto (D-10).
